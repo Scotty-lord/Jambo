@@ -1,16 +1,14 @@
-<body>
-<h1>PHP Dice Game</h1>
-<p>TThis is a PHP Dice Game I created that gives the players the option to enter there names, choose amount of rolls and sides of dice. Players can see there score on the right of the table and final score on the bottom.</p>
+<corps>
+<h1>Jeu de dés PHP</h1>
+<p>Il s'agit d'un jeu de dés PHP que j'ai créé qui donne aux joueurs la possibilité d'entrer leurs noms, de choisir le nombre de lancers et les faces des dés. Les joueurs peuvent voir le score à droite du tableau et le score final en bas.</p>
 <ul>
-<li>OOP PHP is used for the dice and the players.</li>
-<li>Custom CSS is used throughout the site</li>
-<li>Bootstrap makes the page responsive</li>
-  <li>You can provide player names</li>
-  <li>You can choose how many times you want to roll</li>
-  <li>You can choose how many sides of the dice to play with</li>
-  <li>Rolls and Scores are tracked in the table</li>
-<li>Winners and Ties are tracked at the bottom</li>
-</ul>
-<img src="http://afkdeveloper.com/sites/dice.jpg">
-  <p><strong>created by Christian Martins</strong></p>
-</body>
+<li>OOP PHP est utilisé pour les dés et les joueurs.</li>
+<li>Le CSS personnalisé est utilisé sur tout le site</li>
+<li>Bootstrap rend la page réactive</li>
+ <li>Vous pouvez fournir des noms de joueurs</li>
+ <li>Vous pouvez choisir combien de fois vous souhaitez lancer</li>
+ <li>Vous pouvez choisir le nombre de faces du dé avec lesquelles jouer</li>
+ <li>Les lancers et les scores sont suivis dans le tableau</li>
+<li>Les gagnants et les ex-aequo sont indiqués en bas</li>
+ <p><strong>créé par Scoth Donald F</strong></p>
+</corps>
