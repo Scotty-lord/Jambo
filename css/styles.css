@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(77, 77, 77);
+    font-family: 'Orbitron', sans-serif;
+}
+
+header h1 {
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
+
+td,
+th {
+    font-size: 1em;
+    padding: 8px;
+    text-align: center;
+    text-shadow: 1px 1px 1px black;
+}
+
+table {
+    font-size: 16px;
+    color: white;
+    border: 2px solid black;
+    background-color: rgba(37, 0, 139, 0.726);
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    box-shadow: 3px 3px 3px black;
+}
+
+.player1-color {
+    background-color: hsl(187, 33%, 66%);
+}
+
+.player2-color {
+    background-color: #7cd335;
+}
+
+.tie-color {
+    background-color: rgb(133, 0, 0);
+}
+
+.score {
+    margin-top: 30px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px black;
+    margin: 0 auto;
+    width: 500px;
+    padding: 10px;
+    background-color: white;
+}
+
+.score h4 {
+    margin-left: 40px;
+    font-size: 18px;
+}
